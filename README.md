@@ -105,11 +105,14 @@ Para rodar esse projeto em sua máquina, siga os passos a seguir:
 3️⃣ Entre no diretório do repositorio clonado, no arquivo index.html
 
 4️⃣ Por fim rode o projeto:
+
+clique com o direito do mouse no arquivo `index.html` e em:
+
 ```bash
-                           -------
+                           Abrir com o Live Server
 ```
 
-O navegador será aberto automaticamente usando a porta -----
+O navegador será aberto automaticamente.
 
   
 # CONFIRA O RESULTADO [AQUI](https://digimons-list.netlify.app/)
